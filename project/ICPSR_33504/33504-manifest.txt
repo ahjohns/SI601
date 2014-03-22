@@ -1,0 +1,47 @@
+File Manifest for ICPSR 33504
+
+Gallup International Association. Voice of the People End of Year Survey,
+2011. ICPSR33504-v1. Ann Arbor, MI: Inter-university Consortium for
+Political and Social Research [distributor], 2012-07-03.
+doi:10.3886/ICPSR33504.v1
+
+
+Study-level Documentation
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    33504-manifest.txt                  -       -         -       2014-02-03  -
+
+
+DS0001 Voice of the People End of Year Survey, 2011
+
+    Filename                            Record  Record    Var.    Date        MD5
+                                        Length  Count     Count   Updated     Checksum
+
+    33504-0001-Codebook.pdf             -       -         -       2012-07-03  cb8f9ed916beea4892f51b7767980090
+
+    33504-0001-Data.dta                 -       53,433    43      2012-07-03  510e3f4d8a8e570c1bea85419e5e06c7
+
+    33504-0001-Data.sav                 -       53,433    43      2012-07-03  dddf76a6bbba1fed843ca975f9906284
+
+    33504-0001-Data.stc                 -       53,433    43      2012-07-03  19b0d52d0d7883df44211e5533d4ad66
+
+    33504-0001-Data.tsv                 -       53,433    43      2012-07-03  3161e59da8700907910332ece74706fc
+
+    33504-0001-Data.txt                 197     53,433    43      2012-07-03  74677b44fa8467e7343b991c882189d4
+
+    33504-0001-Questionnaire.pdf        -       -         -       2012-07-03  2cf87e5be25740ff5c4bdfa8e688e76c
+
+    33504-0001-Setup.dct                -       -         -       2012-07-03  6442d60d12dc5487f8a550d915998c9e
+
+    33504-0001-Setup.do                 -       -         -       2012-07-03  3b74c2d3220ee68ee0fd1be2415c0e46
+
+    33504-0001-Setup.sas                -       -         -       2012-07-03  0faaada36f27d11b5fcca3298ded435e
+
+    33504-0001-Setup.sps                -       -         -       2012-07-03  54db25340964bc741e2225ee5652918c
+
+    33504-0001-Supplemental_syntax.do   -       -         -       2012-07-03  846180d6fe55ff3f42c66552a98eb9e3
+
+    33504-0001-Supplemental_syntax.sas  -       -         -       2012-07-03  6bfca29367618c04470b569c5bf1c4dc
+
